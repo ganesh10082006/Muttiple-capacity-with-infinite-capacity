@@ -27,8 +27,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
-name: Ganesh.G
-ref.no.: 23013572
+# name: Ganesh.G
+# ref.no.: 23013572
 ~~~
 import math
 arr_time=float(input("Enter the mean inter arrival time of objects from Feeder (in secs): "))
@@ -63,6 +63,8 @@ else:
 print("--------------------------------------------------------------")
 ~~~
 ## Output :
+![image](https://github.com/ganesh10082006/Muttiple-capacity-with-infinite-capacity/assets/151981672/fe165243-b6bf-4a41-9566-d287830fc29c)
 
 ## Result : 
+Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
 
